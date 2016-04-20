@@ -1,0 +1,22 @@
+{
+  "name": "lambda-harp-compile",
+  "version": "1.0.0",
+  "description": "Compile harp modules and save to S3 running on AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prokilogrammer/lambda-harp-compile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prokilogrammer/lambda-harp-compile/issues"
+  },
+  "homepage": "https://github.com/prokilogrammer/lambda-harp-compile#readme",
+  "dependencies": {
+    "harp": "^0.20.3"
+  }
+}
