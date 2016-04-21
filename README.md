@@ -2,8 +2,8 @@
 
 
 <p align="center">
-    <a href="http://localhost:8080/node/4.3.0?url=https://github.com/prokilogrammer/lambda-harp-compile">
-        <img src="http://localhost:8080/deploy.svg"
+    <a href="http://deploy.solarkaro.com/node/4.3.0?url=https://github.com/prokilogrammer/lambda-harp-compile">
+        <img src="http://deploy.solarkaro.com/deploy.svg"
              alt="Deploy to lambda">
     </a>
 </p>
