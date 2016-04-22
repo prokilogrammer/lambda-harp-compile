@@ -1,4 +1,4 @@
-# lambda-harp-compile
+# Lambda function to compile HarpJS
 
 
 <p align="center">
@@ -7,4 +7,4 @@
              alt="Deploy to lambda">
     </a>
 </p>
-Compile harp modules and save to S3 running on AWS Lambda
+Compile harp modules and save to S3 running on AWS Lambda. TBD
