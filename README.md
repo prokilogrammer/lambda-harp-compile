@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <a href="http://deploy.solarkaro.com/node/4.3.0?url=https://github.com/prokilogrammer/lambda-harp-compile">
+    <a href="http://deploy.solarkaro.com/node/4.3.0?url=https://github.com/prokilogrammer/lambda-harp-compile" target="_blank">
         <img src="http://deploy.solarkaro.com/deploy.svg"
              alt="Deploy to lambda">
     </a>
